@@ -1,50 +1,73 @@
 <h1 align="center">Harini M Anand</h1>
 
 <h3 align="center">
-AI • NLP • Knowledge Graphs • Data Analytics
+Artificial Intelligence • NLP • Knowledge Graphs • Data Analytics
 </h3>
 
----
+<p align="center">
+Building intelligent systems through AI, document intelligence, and knowledge representation.
+</p>
 
-## About
+<p align="center">
+<a href="https://www.linkedin.com/in/harini-m-anand">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-B.Tech student focused on Artificial Intelligence and Data Science, with interests in Natural Language Processing, Knowledge Graphs, and Document Intelligence.
-
-I enjoy building data-driven applications that solve practical problems and improve access to information.
-
-🌱 Currently learning **Advanced NLP, Neo4j, Machine Learning, RAG Systems, and AI Applications**
-
-🚀 Building projects that combine **AI + Data + Real-world Impact**
-
+<a href="https://github.com/harini-m-anand">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Student
-* 💡 Interested in AI, NLP, Knowledge Graphs, Machine Learning & Data Analytics
-* 🔍 Exploring Document Intelligence and Information Extraction
-* 🤝 Enjoy collaborating on innovative AI projects
-* 📈 Constantly learning and improving through projects and research
+🎓 B.Tech student specializing in Artificial Intelligence
+
+💡 Passionate about building intelligent systems using:
+
+* Natural Language Processing (NLP)
+* Knowledge Graphs
+* Machine Learning
+* Data Analytics
+* Document Intelligence
+
+🔍 Exploring semantic technologies, information extraction, and AI-powered applications.
+
+🌱 Currently learning:
+
+* Advanced NLP
+* Neo4j
+* RAG Systems
+* Machine Learning
+* AI Applications
+
+🚀 Building projects that combine AI, Data, and Real-World Impact.
 
 ---
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge)![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-008CC1?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Knowledge_Graphs-008CC1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
+
 <p align="center">
-Projects focused on NLP, Knowledge Graphs, Document Intelligence and AI Applications
+Projects focused on NLP, Knowledge Graphs, Document Intelligence, and AI Applications
 </p>
-
-
 
 <table>
 <tr>
@@ -102,9 +125,9 @@ Improves annotation quality and accelerates NLP validation workflows.
 
 <td width="33%" valign="top">
 
-### 🧠 Ayurveda KG
+### 🧠 Ayurveda Knowledge Graph
 
-**Knowledge Graph (Team Project)**
+**Team Project**
 
 Graph-based representation of Ayurvedic concepts using semantic relationships and entity linking.
 
@@ -130,6 +153,27 @@ Transforms unstructured Ayurvedic knowledge into a searchable graph structure.
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harini-m-anand&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini-m-anand&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harini-m-anand&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harini-m-anand&theme=tokyo-night" />
+</p>
+
+---
+
 ## 📚 Areas of Interest
 
 * Artificial Intelligence
@@ -148,26 +192,20 @@ Transforms unstructured Ayurvedic knowledge into a searchable graph structure.
 * 🔄 Master NLP and Knowledge Graphs
 * 🔄 Contribute to Open Source
 * 🔄 Develop impactful real-world AI projects
-* 🔄 Secure AI/Data Science Internship
-
----
-
-## 📊 GitHub Stats
-
-
-![Harini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harini-m-anand\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harini-m-anand\&layout=compact\&theme=tokyonight)
+* 🔄 Secure an AI/Data Science Internship
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/harini-m-anand
-* LinkedIn: https://www.linkedin.com/in/harini-m-anand
+<p align="center">
 
----
+<a href="https://github.com/harini-m-anand">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### ✨ Motto
+<a href="https://www.linkedin.com/in/harini-m-anand">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-*"Learning, Building, and Growing through AI-driven innovation."*
+</p>
